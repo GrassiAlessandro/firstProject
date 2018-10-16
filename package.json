@@ -1,0 +1,24 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrassiAlessandro/firstProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrassiAlessandro/firstProject/issues"
+  },
+  "homepage": "https://github.com/GrassiAlessandro/firstProject#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
